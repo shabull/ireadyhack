@@ -1,6 +1,4 @@
-//ireadyhack
-//this is a code to skip leasons in Iready :)
-var csid;
+closervar csid;
 var score = "{\"score\":100}";
 
 //close reading lesson
@@ -31,4 +29,3 @@ fetch("https://login.i-ready.com/student/lesson/componentCompleted", {
 	"mode": "cors",
 	"credentials": "include"
 });
-// :)
