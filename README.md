@@ -1,4 +1,4 @@
-closervar csid;
+var csid;
 var score = "{\"score\":100}";
 
 //close reading lesson
